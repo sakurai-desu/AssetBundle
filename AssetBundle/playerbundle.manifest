@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3413699127
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f9108cce4283a387e23c1bb24803313
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: df456370a33a8b1263cd436fd91ebe25
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 156cb14008018994d97e8c4da363e4b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ecfbc33bd0e7354eaf2493b37276b14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 318df7155bc22ee45bd2f75571343d18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 404fd299c61275c48a577e17d0185746, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948d660bacdf4e048a85629814cd1dd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92b5987b92420a344bdf59d78816b4b9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Model/Prehabs/Player_Parent.prefab
+Dependencies: []

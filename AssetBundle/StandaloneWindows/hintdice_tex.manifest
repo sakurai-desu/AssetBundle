@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1329192705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c48e431c406e3b2b7b19f8c0255f1715
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/hintdice_tex/deep_blue.png
+- Assets/hintdice_tex/deep_green.png
+- Assets/hintdice_tex/purple.png
+- Assets/hintdice_tex/light_red.png
+- Assets/hintdice_tex/light_blue.png
+- Assets/hintdice_tex/light_green.png
+- Assets/hintdice_tex/cyan.png
+- Assets/hintdice_tex/zeroone.png
+- Assets/hintdice_tex/yellow.png
+- Assets/hintdice_tex/deep_red.png
+- Assets/hintdice_tex/blue.png
+- Assets/hintdice_tex/magenta.png
+- Assets/hintdice_tex/red.png
+- Assets/hintdice_tex/orange.png
+- Assets/hintdice_tex/deep_yellow.png
+- Assets/hintdice_tex/light_yellow.png
+- Assets/hintdice_tex/green.png
+Dependencies: []

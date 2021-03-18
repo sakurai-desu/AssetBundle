@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 350942574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 798ff784ef8136ad35adbb287bbd885a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Dice_4.mat
+- Assets/Materials/Dice_3.mat
+- Assets/Materials/White.mat
+- Assets/Materials/Goal.mat
+- Assets/Materials/floor_2.mat
+- Assets/Materials/Dice_1.mat
+- Assets/Materials/black.mat
+- Assets/Materials/Dice_2.mat
+- Assets/Materials/Dice_6.mat
+- Assets/Materials/floor.mat
+- Assets/Materials/Start.mat
+- Assets/Materials/Dice_5.mat
+Dependencies: []

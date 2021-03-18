@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2789729945
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: materials
+      Dependencies: {}
+    Info_1:
+      Name: hintdice_tex
+      Dependencies: {}
+    Info_2:
+      Name: dicematerial
+      Dependencies:
+        Dependency_0: hintdice_tex
